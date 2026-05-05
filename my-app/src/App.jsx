@@ -1375,7 +1375,7 @@ function StickyMobileCTA() {
             <form
               onSubmit={(e) => {
                 e.preventDefault();
-                window.location.href = "https://your-payment-link.com";
+                window.location.href = "https://rzp.io/rzp/ydaKYJsq";
               }}
               className="grid grid-cols-1 md:grid-cols-2 gap-4"
             >
